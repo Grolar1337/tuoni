@@ -1,7 +1,7 @@
 # Junkie
 ### Reset password flow vulnerability scanner
 
-I don't plan to develop any further for now. If you need to add a header or cookie, edit it from the code's comments. Scans for all vulnerabilities in this [write-up](https://omar0x01.medium.com/hubspot-full-account-takeover-in-bug-bounty-4e2047914ab5). I looked at the write-ups but couldn't find anything different.
+I don't plan to develop any further for now. If you need to add a header or cookie, edit it from the code's comments. Scans for all vulnerabilities in this [write-up](https://omar0x01.medium.com/hubspot-full-account-takeover-in-bug-bounty-4e2047914ab5). I looked at the write-ups but couldn't find anything different. It creates an average of 40 emails.
 
 You can use param miner or arjun's parameters for mass assignment vulnerabilities. Even if you use the --text parameter, give the parameters as below.
 
